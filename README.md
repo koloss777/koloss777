@@ -16,4 +16,4 @@ npm install @koloss777/nokk
 
 ### Contact
 - GitHub: [koloss777/nokk](https://github.com/koloss777/nokk)
-- Telegram: @koloss777
+- Telegram: [@koloss777](https://t.me/koloss777)
