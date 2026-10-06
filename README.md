@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Vladimir
 
-<!--
-**koloss777/koloss777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Python developer. I build scraping and anti-bot tooling and run
+proxy and DevOps infrastructure (Kubernetes, Docker, Selenium Grid).
 
-Here are some ideas to get you started:
+### Featured
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[nokk](https://github.com/koloss777/nokk)**: a stealth headless browser engine
+in Rust. Real V8 + DOM, Chrome TLS/HTTP fingerprint, solves Cloudflare
+challenges without Chromium. Works with Puppeteer and Playwright, ships as an MCP server.
+
+```bash
+pip install nokk
+npm install @koloss777/nokk
+```
+
+### Contact
+- GitHub: [koloss777/nokk](https://github.com/koloss777/nokk)
+- Email / Telegram: @koloss777
